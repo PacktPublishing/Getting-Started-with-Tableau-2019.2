@@ -1,5 +1,5 @@
-# Getting-Started-with-Tableau-2019.1
-Getting Started with Tableau 2019.1, published by Packt
+# Getting-Started-with-Tableau-2019.2
+Getting Started with Tableau 2019.2, published by Packt
 
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-algorithmic-trading?utm_source=github&utm_medium=repository&utm_campaign=9781789346411"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11166_NEW.png" alt="Hands-On Machine Learning for Algorithmic Trading" height="256px" align="right"></a>
@@ -45,7 +45,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter       | Software required                   | OS required                        |
 | --------      | ------------------------------------| -----------------------------------|
-| All Chapters  | Samba 4.x Server Software           | Windows                            |
+| All Chapters  | Tableau Desktop 2019.2              | Windows   / MacOS                         |
 
 
 
